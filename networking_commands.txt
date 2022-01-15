@@ -1,0 +1,2 @@
+1) netstat -a -n -o (To list all the processes in system)
+2) taskkill /F /PID pid_number (To kill a process)
